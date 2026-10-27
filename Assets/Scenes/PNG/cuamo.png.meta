@@ -1,0 +1,1179 @@
+fileFormatVersion: 2
+guid: ffa32422fb9a63c449c9fbbbe0ec97b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4472534838153687464
+    second: cuamo_0
+  - first:
+      213: 1402799540639097738
+    second: cuamo_1
+  - first:
+      213: 1093180061346885073
+    second: cuamo_2
+  - first:
+      213: 2562061302992013446
+    second: cuamo_3
+  - first:
+      213: -8980234955838526785
+    second: cuamo_4
+  - first:
+      213: 5899291210640915016
+    second: cuamo_5
+  - first:
+      213: -9184575822487317153
+    second: cuamo_6
+  - first:
+      213: -4716929101658000272
+    second: cuamo_7
+  - first:
+      213: 6964621832394572876
+    second: cuamo_8
+  - first:
+      213: 8265717405917251965
+    second: cuamo_9
+  - first:
+      213: 1768764136465532268
+    second: cuamo_10
+  - first:
+      213: 1877579826146235766
+    second: cuamo_11
+  - first:
+      213: 2118220605623428426
+    second: cuamo_12
+  - first:
+      213: -568465322395369833
+    second: cuamo_13
+  - first:
+      213: 2961912453421527490
+    second: cuamo_14
+  - first:
+      213: 6985596337253564319
+    second: cuamo_15
+  - first:
+      213: -1987328418430599426
+    second: cuamo_16
+  - first:
+      213: -4323093011398057704
+    second: cuamo_17
+  - first:
+      213: -764763084128597276
+    second: cuamo_18
+  - first:
+      213: -2893975098609260608
+    second: cuamo_19
+  - first:
+      213: 6621108462542569753
+    second: cuamo_20
+  - first:
+      213: 357299003530787999
+    second: cuamo_21
+  - first:
+      213: -588411540955736271
+    second: cuamo_22
+  - first:
+      213: -5733811601749000585
+    second: cuamo_23
+  - first:
+      213: -8874264873664195378
+    second: cuamo_24
+  - first:
+      213: -2049317976913396109
+    second: cuamo_25
+  - first:
+      213: 5372291845612467180
+    second: cuamo_26
+  - first:
+      213: -1869735462380029516
+    second: cuamo_27
+  - first:
+      213: 5747638915541180914
+    second: cuamo_28
+  - first:
+      213: 3407158260804126894
+    second: cuamo_29
+  - first:
+      213: 2570555046163909637
+    second: cuamo_30
+  - first:
+      213: 611751718969923273
+    second: cuamo_31
+  - first:
+      213: -8717367782499984499
+    second: cuamo_32
+  - first:
+      213: -9055583817160804105
+    second: cuamo_33
+  - first:
+      213: 9151929561052998964
+    second: cuamo_34
+  - first:
+      213: -5258364362961644279
+    second: cuamo_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cuamo_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 182
+        width: 244
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1b5b12db2a11e30800000000000000
+      internalID: 4472534838153687464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 613
+        width: 142
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83efd6ffbeb77310800000000000000
+      internalID: 1402799540639097738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_2
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 672
+        width: 1
+        height: 2
+      alignment: 9
+      pivot: {x: -0.77151126, y: 3.5425525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddee105971cb2f00800000000000000
+      internalID: 1093180061346885073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_3
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 721
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6880d914e254e8320800000000000000
+      internalID: 2562061302992013446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 634
+        width: 152
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbae2b113ebcf5380800000000000000
+      internalID: -8980234955838526785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_5
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 596
+        width: 226
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84af5dca91e7ed150800000000000000
+      internalID: 5899291210640915016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_6
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 618
+        width: 117
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55900093f4d98080800000000000000
+      internalID: -9184575822487317153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_7
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 612
+        width: 76
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074f8f039f91a8eb0800000000000000
+      internalID: -4716929101658000272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_8
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 681
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c440fca08ae47a060800000000000000
+      internalID: 6964621832394572876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_9
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 642
+        width: 136
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d790671ef2ab5b270800000000000000
+      internalID: 8265717405917251965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_10
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 596
+        width: 105
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c658a7d5c99eb8810800000000000000
+      internalID: 1768764136465532268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_11
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 630
+        width: 197
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675d2ee67e08e0a10800000000000000
+      internalID: 1877579826146235766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_12
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 610
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45e8120b6e656d10800000000000000
+      internalID: 2118220605623428426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_13
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 614
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79efe771dc76c18f0800000000000000
+      internalID: -568465322395369833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_14
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 723
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: -3.2039742, y: 4.4267364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1fef9fea3da1920800000000000000
+      internalID: 2961912453421527490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_15
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 597
+        width: 3
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fb4428bd2d1f060800000000000000
+      internalID: 6985596337253564319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_16
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 602
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeb76f25579b64e0800000000000000
+      internalID: -1987328418430599426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_17
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 1
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81125a49fc94104c0800000000000000
+      internalID: -4323093011398057704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_18
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 707
+        width: 27
+        height: 2
+      alignment: 9
+      pivot: {x: -4.9627957, y: 2.8186438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eace21e6040365f0800000000000000
+      internalID: -764763084128597276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 166
+        width: 231
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7a1921bf886d7d0800000000000000
+      internalID: -2893975098609260608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_20
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 162
+        width: 242
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911ce290117e2eb50800000000000000
+      internalID: 6621108462542569753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_21
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cbd08fc8165f400800000000000000
+      internalID: 357299003530787999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_22
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 161
+        width: 285
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137d79f22da85d7f0800000000000000
+      internalID: -588411540955736271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_23
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 564
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ebcbc2ab86d60b0800000000000000
+      internalID: -5733811601749000585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_24
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 0
+        width: 262
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4d4828d1748d480800000000000000
+      internalID: -8874264873664195378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_25
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e3142682c5f83e0800000000000000
+      internalID: -2049317976913396109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_26
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 175
+        width: 296
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3757f48f63e8a40800000000000000
+      internalID: 5372291845612467180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_27
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 165
+        width: 279
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b933e4d08d5d06e0800000000000000
+      internalID: -1869735462380029516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_28
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 0
+        width: 26
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f12b023427b3cf40800000000000000
+      internalID: 5747638915541180914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_29
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 126
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea884c4e268a84f20800000000000000
+      internalID: 3407158260804126894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_30
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 15
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c0032f1327ca320800000000000000
+      internalID: 2570555046163909637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_31
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 117
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6dfeb72f06d7800800000000000000
+      internalID: 611751718969923273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_32
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b57ab3030b50780800000000000000
+      internalID: -8717367782499984499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_33
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 33
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8ba503f7a145280800000000000000
+      internalID: -9055583817160804105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_34
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 0
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43de5ff527f220f70800000000000000
+      internalID: 9151929561052998964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_35
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 18
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905191ec8798607b0800000000000000
+      internalID: -5258364362961644279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_36
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 582
+        width: 13
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14ae099dbe3e074aaba70349b31a256
+      internalID: 1042931369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuamo_37
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 91
+        width: 26
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd174bfa79ae12478ea1314b7deed2d
+      internalID: -1996084539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d8c2a7cba77c5dc4ca1de5ee35fa002f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cuamo_0: 4472534838153687464
+      cuamo_1: 1402799540639097738
+      cuamo_10: 1768764136465532268
+      cuamo_11: 1877579826146235766
+      cuamo_12: 2118220605623428426
+      cuamo_13: -568465322395369833
+      cuamo_14: 2961912453421527490
+      cuamo_15: 6985596337253564319
+      cuamo_16: -1987328418430599426
+      cuamo_17: -4323093011398057704
+      cuamo_18: -764763084128597276
+      cuamo_19: -2893975098609260608
+      cuamo_2: 1093180061346885073
+      cuamo_20: 6621108462542569753
+      cuamo_21: 357299003530787999
+      cuamo_22: -588411540955736271
+      cuamo_23: -5733811601749000585
+      cuamo_24: -8874264873664195378
+      cuamo_25: -2049317976913396109
+      cuamo_26: 5372291845612467180
+      cuamo_27: -1869735462380029516
+      cuamo_28: 5747638915541180914
+      cuamo_29: 3407158260804126894
+      cuamo_3: 2562061302992013446
+      cuamo_30: 2570555046163909637
+      cuamo_31: 611751718969923273
+      cuamo_32: -8717367782499984499
+      cuamo_33: -9055583817160804105
+      cuamo_34: 9151929561052998964
+      cuamo_35: -5258364362961644279
+      cuamo_36: 1042931369
+      cuamo_37: -1996084539
+      cuamo_4: -8980234955838526785
+      cuamo_5: 5899291210640915016
+      cuamo_6: -9184575822487317153
+      cuamo_7: -4716929101658000272
+      cuamo_8: 6964621832394572876
+      cuamo_9: 8265717405917251965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

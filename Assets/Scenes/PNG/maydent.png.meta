@@ -1,0 +1,3057 @@
+fileFormatVersion: 2
+guid: 760f76bfdbd6f524a8bda6b29d759433
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6749697942099991564
+    second: maydent_0
+  - first:
+      213: 6466500029804610058
+    second: maydent_1
+  - first:
+      213: 3597596253878814564
+    second: maydent_2
+  - first:
+      213: 1952844276851499670
+    second: maydent_3
+  - first:
+      213: 1969527860852953018
+    second: maydent_4
+  - first:
+      213: -2032245624303740863
+    second: maydent_5
+  - first:
+      213: 1745019123183606819
+    second: maydent_6
+  - first:
+      213: 3948895082862836457
+    second: maydent_7
+  - first:
+      213: 7105983815648893893
+    second: maydent_8
+  - first:
+      213: -7273194390403901305
+    second: maydent_9
+  - first:
+      213: 4241788107607580547
+    second: maydent_10
+  - first:
+      213: 8020612492371028943
+    second: maydent_11
+  - first:
+      213: -2552704932524850000
+    second: maydent_12
+  - first:
+      213: 2528015685873330206
+    second: maydent_13
+  - first:
+      213: 5123913346672095821
+    second: maydent_14
+  - first:
+      213: -8588648357508382611
+    second: maydent_15
+  - first:
+      213: -6100885394776254855
+    second: maydent_16
+  - first:
+      213: -5739199020862350996
+    second: maydent_17
+  - first:
+      213: 6208170950228403011
+    second: maydent_18
+  - first:
+      213: 3328344154999105501
+    second: maydent_19
+  - first:
+      213: -902511804155776073
+    second: maydent_20
+  - first:
+      213: -8100959519300238105
+    second: maydent_21
+  - first:
+      213: -3869478202897793414
+    second: maydent_22
+  - first:
+      213: -6476747532008608465
+    second: maydent_23
+  - first:
+      213: -8802253677457391226
+    second: maydent_24
+  - first:
+      213: -4924164871246209251
+    second: maydent_25
+  - first:
+      213: -364448779424170019
+    second: maydent_26
+  - first:
+      213: -1793578284625064589
+    second: maydent_27
+  - first:
+      213: 6083725701759822210
+    second: maydent_28
+  - first:
+      213: 2287248976019741343
+    second: maydent_29
+  - first:
+      213: 5390025845038202739
+    second: maydent_30
+  - first:
+      213: 7531976059543366966
+    second: maydent_31
+  - first:
+      213: -4885142337976419908
+    second: maydent_32
+  - first:
+      213: -5134859584191912856
+    second: maydent_33
+  - first:
+      213: 5911709393879137253
+    second: maydent_34
+  - first:
+      213: -8539746928080945237
+    second: maydent_35
+  - first:
+      213: 83478682654314690
+    second: maydent_36
+  - first:
+      213: 788894979713688262
+    second: maydent_37
+  - first:
+      213: 8147344608075540313
+    second: maydent_38
+  - first:
+      213: 7565069367920641548
+    second: maydent_39
+  - first:
+      213: -5841386468152216909
+    second: maydent_40
+  - first:
+      213: 826555463685610992
+    second: maydent_41
+  - first:
+      213: -5408564136993158789
+    second: maydent_42
+  - first:
+      213: 2910852410373738029
+    second: maydent_43
+  - first:
+      213: -1833031226625378770
+    second: maydent_44
+  - first:
+      213: -4000065850002302132
+    second: maydent_45
+  - first:
+      213: -8669657208277210413
+    second: maydent_46
+  - first:
+      213: 5101600881220405781
+    second: maydent_47
+  - first:
+      213: 9219285921611686404
+    second: maydent_48
+  - first:
+      213: 1888126815308690963
+    second: maydent_49
+  - first:
+      213: -8427736448540265623
+    second: maydent_50
+  - first:
+      213: 1708917786934788113
+    second: maydent_51
+  - first:
+      213: -1084680362534056903
+    second: maydent_52
+  - first:
+      213: 7748267704176719737
+    second: maydent_53
+  - first:
+      213: -5285405250008007331
+    second: maydent_54
+  - first:
+      213: 5032148687400983063
+    second: maydent_55
+  - first:
+      213: -9174415265305919171
+    second: maydent_56
+  - first:
+      213: -7034482460209258754
+    second: maydent_57
+  - first:
+      213: 3150245753428828619
+    second: maydent_58
+  - first:
+      213: -5254693729604113003
+    second: maydent_59
+  - first:
+      213: 9161725362819309088
+    second: maydent_60
+  - first:
+      213: -5144694514426069198
+    second: maydent_61
+  - first:
+      213: 5542713842322189465
+    second: maydent_62
+  - first:
+      213: 7315433076708595283
+    second: maydent_63
+  - first:
+      213: -7163816435546740434
+    second: maydent_64
+  - first:
+      213: -4838864936027519606
+    second: maydent_65
+  - first:
+      213: -4829156787172457454
+    second: maydent_66
+  - first:
+      213: -1361117162306052
+    second: maydent_67
+  - first:
+      213: 8417014039054424263
+    second: maydent_68
+  - first:
+      213: -3551218201405295950
+    second: maydent_69
+  - first:
+      213: 3212406678660029362
+    second: maydent_70
+  - first:
+      213: 4025074510788448615
+    second: maydent_71
+  - first:
+      213: -7850396490907871822
+    second: maydent_72
+  - first:
+      213: 5295009121893651895
+    second: maydent_73
+  - first:
+      213: 8750535842826573140
+    second: maydent_74
+  - first:
+      213: -975910068192078827
+    second: maydent_75
+  - first:
+      213: -894768491733151985
+    second: maydent_76
+  - first:
+      213: 7349951838145181336
+    second: maydent_77
+  - first:
+      213: 8433880667630522242
+    second: maydent_78
+  - first:
+      213: -8311883414031897923
+    second: maydent_79
+  - first:
+      213: -7108092579692540963
+    second: maydent_80
+  - first:
+      213: -2410946862905838168
+    second: maydent_81
+  - first:
+      213: 7179802613622647048
+    second: maydent_82
+  - first:
+      213: -5073947530899778028
+    second: maydent_83
+  - first:
+      213: 6790845027089666822
+    second: maydent_84
+  - first:
+      213: 2168006594441287125
+    second: maydent_85
+  - first:
+      213: -6042175031462744356
+    second: maydent_86
+  - first:
+      213: 2339862966488178746
+    second: maydent_87
+  - first:
+      213: -2536307504622208707
+    second: maydent_88
+  - first:
+      213: 1999676643514161412
+    second: maydent_89
+  - first:
+      213: 5243633337601265147
+    second: maydent_90
+  - first:
+      213: 2962908920995969736
+    second: maydent_91
+  - first:
+      213: 3102623715412496745
+    second: maydent_92
+  - first:
+      213: -3623774728752830335
+    second: maydent_93
+  - first:
+      213: 6736222601227149356
+    second: maydent_94
+  - first:
+      213: 163979254738934245
+    second: maydent_95
+  - first:
+      213: -8757406772098391628
+    second: maydent_96
+  - first:
+      213: 3058686482619554318
+    second: maydent_97
+  - first:
+      213: 1613143898533625067
+    second: maydent_98
+  - first:
+      213: -8482556505098362641
+    second: maydent_99
+  - first:
+      213: -1694893601557968445
+    second: maydent_100
+  - first:
+      213: -1454440767994510068
+    second: maydent_101
+  - first:
+      213: -4864103872213381686
+    second: maydent_102
+  - first:
+      213: -9011043685465549574
+    second: maydent_103
+  - first:
+      213: 7064514989564094969
+    second: maydent_104
+  - first:
+      213: -2746903431239300568
+    second: maydent_105
+  - first:
+      213: -4061428286656067624
+    second: maydent_106
+  - first:
+      213: 7329127988591348608
+    second: maydent_107
+  - first:
+      213: 407721235792391215
+    second: maydent_108
+  - first:
+      213: 5373909886674920725
+    second: maydent_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maydent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 51
+        height: 62
+      alignment: 9
+      pivot: {x: 4.1092806, y: -3.725008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c1e04548ebbad50800000000000000
+      internalID: 6749697942099991564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 851
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a028e80248f9db950800000000000000
+      internalID: 6466500029804610058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 896
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46709b56bba3de130800000000000000
+      internalID: 3597596253878814564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 899
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692636fe585e91b10800000000000000
+      internalID: 1952844276851499670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 850
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf0069872b255b10800000000000000
+      internalID: 1969527860852953018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 850
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148980b3f530cc3e0800000000000000
+      internalID: -2032245624303740863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 857
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c5f93a5ad873810800000000000000
+      internalID: 1745019123183606819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 893
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea735dd72b4dc630800000000000000
+      internalID: 3948895082862836457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 893
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb5d6791a68d9260800000000000000
+      internalID: 7105983815648893893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 861
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7889c99ac3c601b90800000000000000
+      internalID: -7273194390403901305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 912
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f1d665fcbddda30800000000000000
+      internalID: 4241788107607580547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 851
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbe5d81190fe4f60800000000000000
+      internalID: 8020612492371028943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 885
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b408708368f29cd0800000000000000
+      internalID: -2552704932524850000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 897
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18681f4fd0551320800000000000000
+      internalID: 2528015685873330206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 867
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42f5488a0ccb1740800000000000000
+      internalID: 5123913346672095821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_15
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 893
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6088fdc2ddfec880800000000000000
+      internalID: -8588648357508382611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_16
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 893
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9761efcae0d455ba0800000000000000
+      internalID: -6100885394776254855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_17
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 891
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69da3ae5e44a50b0800000000000000
+      internalID: -5739199020862350996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_18
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 910
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3436341469ad72650800000000000000
+      internalID: 6208170950228403011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_19
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 883
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd728f8ef57a03e20800000000000000
+      internalID: 3328344154999105501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 859
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3b2bbbb42a973f0800000000000000
+      internalID: -902511804155776073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_21
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 907
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e44a48ec3c939f80800000000000000
+      internalID: -8100959519300238105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 875
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ef82a631adc4ac0800000000000000
+      internalID: -3869478202897793414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_23
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 899
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d2db65f68fd16a0800000000000000
+      internalID: -6476747532008608465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_24
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 920
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681c64caaec18d580800000000000000
+      internalID: -8802253677457391226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_25
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 851
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f99e1932ad9abb0800000000000000
+      internalID: -4924164871246209251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_26
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 901
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddff89b14c731faf0800000000000000
+      internalID: -364448779424170019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_27
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 905
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d811c8d0eeb17e0800000000000000
+      internalID: -1793578284625064589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_28
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 912
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289ee44fa4cbd6450800000000000000
+      internalID: 6083725701759822210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_29
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 893
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a588843d0fdbf10800000000000000
+      internalID: 2287248976019741343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_30
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 887
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f3dafc2f73dca40800000000000000
+      internalID: 5390025845038202739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_31
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 851
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d24dde154f68860800000000000000
+      internalID: 7531976059543366966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_32
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 881
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9b1bb1dec743cb0800000000000000
+      internalID: -4885142337976419908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_33
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 65
+        width: 788
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8642bb0f9605db8b0800000000000000
+      internalID: -5134859584191912856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_34
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 861
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb71854f5c9a0250800000000000000
+      internalID: 5911709393879137253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_35
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 893
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf70081a69bc7980800000000000000
+      internalID: -8539746928080945237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_36
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 851
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09de96b63982100800000000000000
+      internalID: 83478682654314690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_37
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 903
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c26ce6edc7b2fa00800000000000000
+      internalID: 788894979713688262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_38
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 879
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957690b21ce211170800000000000000
+      internalID: 8147344608075540313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_39
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 865
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06491832868cf860800000000000000
+      internalID: 7565069367920641548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_40
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 907
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2730ac4f93feea0800000000000000
+      internalID: -5841386468152216909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_41
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 861
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd9320a0d3887b00800000000000000
+      internalID: 826555463685610992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_42
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 893
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b790b9db29be0f4b0800000000000000
+      internalID: -5408564136993158789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_43
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 860
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e8ae948dc656820800000000000000
+      internalID: 2910852410373738029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_44
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 903
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26bbcaafc3cf86e0800000000000000
+      internalID: -1833031226625378770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_45
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 849
+        width: 133
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b117c7d49ec78c0800000000000000
+      internalID: -4000065850002302132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_46
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 891
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da6b30f3b03fa780800000000000000
+      internalID: -8669657208277210413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_47
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 902
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a46f6d8f68cc640800000000000000
+      internalID: 5101600881220405781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_48
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 893
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402ac6823bb71ff70800000000000000
+      internalID: 9219285921611686404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_49
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 889
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3163d55b559f33a10800000000000000
+      internalID: 1888126815308690963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_50
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 893
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96335242a5aaa0b80800000000000000
+      internalID: -8427736448540265623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_51
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 924
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11048984cab47b710800000000000000
+      internalID: 1708917786934788113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_52
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 849
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cc05805f072f0f0800000000000000
+      internalID: -1084680362534056903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_53
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 883
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977b514cc60678b60800000000000000
+      internalID: 7748267704176719737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 861
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db94bade776a6b0800000000000000
+      internalID: -5285405250008007331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_55
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 873
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71adb79d198c5d540800000000000000
+      internalID: 5032148687400983063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_56
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 841
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d310581acededa080800000000000000
+      internalID: -9174415265305919171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_57
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 875
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efed284097f706e90800000000000000
+      internalID: -7034482460209258754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_58
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 882
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1ee4072dbe7bb20800000000000000
+      internalID: 3150245753428828619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_59
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 885
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d697bb4e39317b0800000000000000
+      internalID: -5254693729604113003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_60
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 875
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e18843dacf42f70800000000000000
+      internalID: 9161725362819309088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_61
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 855
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fbbbdc89f5a98b0800000000000000
+      internalID: -5144694514426069198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_62
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 855
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c214f7fdcabec40800000000000000
+      internalID: 5542713842322189465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_63
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 861
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356db5bdf93a58560800000000000000
+      internalID: 7315433076708595283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 843
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29a12b48e2059c90800000000000000
+      internalID: -7163816435546740434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_65
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 855
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a858cf36af5e8dcb0800000000000000
+      internalID: -4838864936027519606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_66
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 849
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2144befec736bfcb0800000000000000
+      internalID: -4829156787172457454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 855
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50b07321a2bfff0800000000000000
+      internalID: -1361117162306052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_68
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 401
+        width: 13
+        height: 25
+      alignment: 9
+      pivot: {x: -2.6569283, y: -2.701773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8905b5cad3fc470800000000000000
+      internalID: 8417014039054424263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_69
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 861
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2f5596cd987bec0800000000000000
+      internalID: -3551218201405295950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_70
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 851
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb9f9baad2c49c20800000000000000
+      internalID: 3212406678660029362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_71
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 857
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761560a11ffebd730800000000000000
+      internalID: 4025074510788448615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_72
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 863
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b596751cf9cd0390800000000000000
+      internalID: -7850396490907871822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_73
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 857
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b59ce00eb6ab7940800000000000000
+      internalID: 5295009121893651895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_74
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 849
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455500a9cf5207970800000000000000
+      internalID: 8750535842826573140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_75
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 865
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5141faca6fed472f0800000000000000
+      internalID: -975910068192078827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_76
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 840
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f88062cc42593f0800000000000000
+      internalID: -894768491733151985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_77
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 841
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8967fdc4146400660800000000000000
+      internalID: 7349951838145181336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_78
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 331
+        width: 40
+        height: 65
+      alignment: 9
+      pivot: {x: -1.7966487, y: -1.0033224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fc62858c92b0570800000000000000
+      internalID: 8433880667630522242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_79
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 841
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaea2cb21246ac80800000000000000
+      internalID: -8311883414031897923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_80
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 853
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb06d4857bfa5d90800000000000000
+      internalID: -7108092579692540963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_81
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 855
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5b7281a989a8ed0800000000000000
+      internalID: -2410946862905838168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_82
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 855
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8092666df68c3a360800000000000000
+      internalID: 7179802613622647048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_83
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 859
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4169fb38a97b599b0800000000000000
+      internalID: -5073947530899778028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_84
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 825
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603586c929ded3e50800000000000000
+      internalID: 6790845027089666822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_85
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 76
+        width: 463
+        height: 141
+      alignment: 9
+      pivot: {x: -4.231741, y: -10.138105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d59064d28e461e10800000000000000
+      internalID: 2168006594441287125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_86
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 861
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeadea52d1e52ca0800000000000000
+      internalID: -6042175031462744356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_87
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 861
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30ae9c88fcd87020800000000000000
+      internalID: 2339862966488178746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_88
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 858
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39f5d133c93dccd0800000000000000
+      internalID: -2536307504622208707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_89
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 845
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4099e42005740cb10800000000000000
+      internalID: 1999676643514161412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_90
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 825
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd8e141db025c840800000000000000
+      internalID: 5243633337601265147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_91
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 848
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cafcc927fd5e1920800000000000000
+      internalID: 2962908920995969736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_92
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 845
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9615ddca4dbbe0b20800000000000000
+      internalID: 3102623715412496745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_93
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 845
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18866a27514c5bdc0800000000000000
+      internalID: -3623774728752830335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_94
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 850
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c202a1a04cedb7d50800000000000000
+      internalID: 6736222601227149356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_95
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 855
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e95f3d6342964200800000000000000
+      internalID: 163979254738934245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_96
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 842
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1a97380f0777680800000000000000
+      internalID: -8757406772098391628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_97
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 863
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ad3db7623a27a20800000000000000
+      internalID: 3058686482619554318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_98
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 862
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec7fa334d9036610800000000000000
+      internalID: 1613143898533625067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_99
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 822
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0ee661dc7e74a80800000000000000
+      internalID: -8482556505098362641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_100
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 849
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c90e03df378a78e0800000000000000
+      internalID: -1694893601557968445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_101
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 857
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0547d4d3d9c0dbe0800000000000000
+      internalID: -1454440767994510068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_102
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 843
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd8e12ac4b3f7cb0800000000000000
+      internalID: -4864103872213381686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 75
+        width: 408
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af49c48b28752f280800000000000000
+      internalID: -9011043685465549574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_104
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 808
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9e36f14f23a0260800000000000000
+      internalID: 7064514989564094969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_105
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 845
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a0eac02e901e9d0800000000000000
+      internalID: -2746903431239300568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_106
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 843
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7442ddd78e2a7c0800000000000000
+      internalID: -4061428286656067624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_107
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 841
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b4c51031b46b560800000000000000
+      internalID: 7329127988591348608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_108
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 821
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ce9c2cd4488a500800000000000000
+      internalID: 407721235792391215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maydent_109
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 827
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515e73ad196f39a40800000000000000
+      internalID: 5373909886674920725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 624027ddae584d44290a3bf60127677e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      maydent_0: 6749697942099991564
+      maydent_1: 6466500029804610058
+      maydent_10: 4241788107607580547
+      maydent_100: -1694893601557968445
+      maydent_101: -1454440767994510068
+      maydent_102: -4864103872213381686
+      maydent_103: -9011043685465549574
+      maydent_104: 7064514989564094969
+      maydent_105: -2746903431239300568
+      maydent_106: -4061428286656067624
+      maydent_107: 7329127988591348608
+      maydent_108: 407721235792391215
+      maydent_109: 5373909886674920725
+      maydent_11: 8020612492371028943
+      maydent_12: -2552704932524850000
+      maydent_13: 2528015685873330206
+      maydent_14: 5123913346672095821
+      maydent_15: -8588648357508382611
+      maydent_16: -6100885394776254855
+      maydent_17: -5739199020862350996
+      maydent_18: 6208170950228403011
+      maydent_19: 3328344154999105501
+      maydent_2: 3597596253878814564
+      maydent_20: -902511804155776073
+      maydent_21: -8100959519300238105
+      maydent_22: -3869478202897793414
+      maydent_23: -6476747532008608465
+      maydent_24: -8802253677457391226
+      maydent_25: -4924164871246209251
+      maydent_26: -364448779424170019
+      maydent_27: -1793578284625064589
+      maydent_28: 6083725701759822210
+      maydent_29: 2287248976019741343
+      maydent_3: 1952844276851499670
+      maydent_30: 5390025845038202739
+      maydent_31: 7531976059543366966
+      maydent_32: -4885142337976419908
+      maydent_33: -5134859584191912856
+      maydent_34: 5911709393879137253
+      maydent_35: -8539746928080945237
+      maydent_36: 83478682654314690
+      maydent_37: 788894979713688262
+      maydent_38: 8147344608075540313
+      maydent_39: 7565069367920641548
+      maydent_4: 1969527860852953018
+      maydent_40: -5841386468152216909
+      maydent_41: 826555463685610992
+      maydent_42: -5408564136993158789
+      maydent_43: 2910852410373738029
+      maydent_44: -1833031226625378770
+      maydent_45: -4000065850002302132
+      maydent_46: -8669657208277210413
+      maydent_47: 5101600881220405781
+      maydent_48: 9219285921611686404
+      maydent_49: 1888126815308690963
+      maydent_5: -2032245624303740863
+      maydent_50: -8427736448540265623
+      maydent_51: 1708917786934788113
+      maydent_52: -1084680362534056903
+      maydent_53: 7748267704176719737
+      maydent_54: -5285405250008007331
+      maydent_55: 5032148687400983063
+      maydent_56: -9174415265305919171
+      maydent_57: -7034482460209258754
+      maydent_58: 3150245753428828619
+      maydent_59: -5254693729604113003
+      maydent_6: 1745019123183606819
+      maydent_60: 9161725362819309088
+      maydent_61: -5144694514426069198
+      maydent_62: 5542713842322189465
+      maydent_63: 7315433076708595283
+      maydent_64: -7163816435546740434
+      maydent_65: -4838864936027519606
+      maydent_66: -4829156787172457454
+      maydent_67: -1361117162306052
+      maydent_68: 8417014039054424263
+      maydent_69: -3551218201405295950
+      maydent_7: 3948895082862836457
+      maydent_70: 3212406678660029362
+      maydent_71: 4025074510788448615
+      maydent_72: -7850396490907871822
+      maydent_73: 5295009121893651895
+      maydent_74: 8750535842826573140
+      maydent_75: -975910068192078827
+      maydent_76: -894768491733151985
+      maydent_77: 7349951838145181336
+      maydent_78: 8433880667630522242
+      maydent_79: -8311883414031897923
+      maydent_8: 7105983815648893893
+      maydent_80: -7108092579692540963
+      maydent_81: -2410946862905838168
+      maydent_82: 7179802613622647048
+      maydent_83: -5073947530899778028
+      maydent_84: 6790845027089666822
+      maydent_85: 2168006594441287125
+      maydent_86: -6042175031462744356
+      maydent_87: 2339862966488178746
+      maydent_88: -2536307504622208707
+      maydent_89: 1999676643514161412
+      maydent_9: -7273194390403901305
+      maydent_90: 5243633337601265147
+      maydent_91: 2962908920995969736
+      maydent_92: 3102623715412496745
+      maydent_93: -3623774728752830335
+      maydent_94: 6736222601227149356
+      maydent_95: 163979254738934245
+      maydent_96: -8757406772098391628
+      maydent_97: 3058686482619554318
+      maydent_98: 1613143898533625067
+      maydent_99: -8482556505098362641
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

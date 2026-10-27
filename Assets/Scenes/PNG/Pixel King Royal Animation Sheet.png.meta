@@ -1,0 +1,2378 @@
+fileFormatVersion: 2
+guid: 2e65d256898a7e54d8192b456af8be74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5474390426403045530
+    second: Pixel King Royal Animation Sheet_0
+  - first:
+      213: -3289043023493972098
+    second: Pixel King Royal Animation Sheet_1
+  - first:
+      213: 7267239722467615707
+    second: Pixel King Royal Animation Sheet_2
+  - first:
+      213: -8123075789669503470
+    second: Pixel King Royal Animation Sheet_3
+  - first:
+      213: 199489057666247095
+    second: Pixel King Royal Animation Sheet_4
+  - first:
+      213: -3837806335404675709
+    second: Pixel King Royal Animation Sheet_5
+  - first:
+      213: -8171500235877556968
+    second: Pixel King Royal Animation Sheet_6
+  - first:
+      213: 4306633421302284482
+    second: Pixel King Royal Animation Sheet_7
+  - first:
+      213: 8001160265197925957
+    second: Pixel King Royal Animation Sheet_8
+  - first:
+      213: 6525638407895319340
+    second: Pixel King Royal Animation Sheet_9
+  - first:
+      213: -620271587231855446
+    second: Pixel King Royal Animation Sheet_10
+  - first:
+      213: -462928774598502271
+    second: Pixel King Royal Animation Sheet_11
+  - first:
+      213: 3768571815706552802
+    second: Pixel King Royal Animation Sheet_12
+  - first:
+      213: 9220762769581051836
+    second: Pixel King Royal Animation Sheet_13
+  - first:
+      213: -958683441538472473
+    second: Pixel King Royal Animation Sheet_14
+  - first:
+      213: -2186657188256104594
+    second: Pixel King Royal Animation Sheet_15
+  - first:
+      213: -8753792782790274983
+    second: Pixel King Royal Animation Sheet_16
+  - first:
+      213: -1806783290846138217
+    second: Pixel King Royal Animation Sheet_17
+  - first:
+      213: 7078466408288562730
+    second: Pixel King Royal Animation Sheet_18
+  - first:
+      213: 3185165918691217114
+    second: Pixel King Royal Animation Sheet_19
+  - first:
+      213: -445405583067248164
+    second: Pixel King Royal Animation Sheet_20
+  - first:
+      213: -6903535647241612302
+    second: Pixel King Royal Animation Sheet_21
+  - first:
+      213: 2465212340675446510
+    second: Pixel King Royal Animation Sheet_22
+  - first:
+      213: -5434926290825088293
+    second: Pixel King Royal Animation Sheet_23
+  - first:
+      213: 6525371154583711600
+    second: Pixel King Royal Animation Sheet_24
+  - first:
+      213: 741271994021048486
+    second: Pixel King Royal Animation Sheet_25
+  - first:
+      213: 4209988995043845488
+    second: Pixel King Royal Animation Sheet_26
+  - first:
+      213: 582525473156399712
+    second: Pixel King Royal Animation Sheet_27
+  - first:
+      213: -6366146944814316607
+    second: Pixel King Royal Animation Sheet_28
+  - first:
+      213: -3691562220699374024
+    second: Pixel King Royal Animation Sheet_29
+  - first:
+      213: 7101937918587194646
+    second: Pixel King Royal Animation Sheet_30
+  - first:
+      213: -825828515485079335
+    second: Pixel King Royal Animation Sheet_31
+  - first:
+      213: 8745045554501719788
+    second: Pixel King Royal Animation Sheet_32
+  - first:
+      213: 8900024004587900915
+    second: Pixel King Royal Animation Sheet_33
+  - first:
+      213: -4406414355124767063
+    second: Pixel King Royal Animation Sheet_34
+  - first:
+      213: 770295884532683128
+    second: Pixel King Royal Animation Sheet_35
+  - first:
+      213: 6411226953938448793
+    second: Pixel King Royal Animation Sheet_36
+  - first:
+      213: -1204995143642183300
+    second: Pixel King Royal Animation Sheet_37
+  - first:
+      213: -6378453327556071948
+    second: Pixel King Royal Animation Sheet_38
+  - first:
+      213: -4939941327695020123
+    second: Pixel King Royal Animation Sheet_39
+  - first:
+      213: -4653860908046066479
+    second: Pixel King Royal Animation Sheet_40
+  - first:
+      213: 5014942429295356204
+    second: Pixel King Royal Animation Sheet_41
+  - first:
+      213: 2276302388262748506
+    second: Pixel King Royal Animation Sheet_42
+  - first:
+      213: -3140063961740661468
+    second: Pixel King Royal Animation Sheet_43
+  - first:
+      213: 7775703264517872470
+    second: Pixel King Royal Animation Sheet_44
+  - first:
+      213: 438363806404148071
+    second: Pixel King Royal Animation Sheet_45
+  - first:
+      213: -1971642857230578465
+    second: Pixel King Royal Animation Sheet_46
+  - first:
+      213: -1807963649487724517
+    second: Pixel King Royal Animation Sheet_47
+  - first:
+      213: -4195181788265451586
+    second: Pixel King Royal Animation Sheet_48
+  - first:
+      213: -2522966489708271823
+    second: Pixel King Royal Animation Sheet_49
+  - first:
+      213: -1743182903598286642
+    second: Pixel King Royal Animation Sheet_50
+  - first:
+      213: 7632860194452663883
+    second: Pixel King Royal Animation Sheet_51
+  - first:
+      213: 5824869670345785803
+    second: Pixel King Royal Animation Sheet_52
+  - first:
+      213: -819985024178464963
+    second: Pixel King Royal Animation Sheet_53
+  - first:
+      213: -2645667105748434383
+    second: Pixel King Royal Animation Sheet_54
+  - first:
+      213: -6161947332914235001
+    second: Pixel King Royal Animation Sheet_55
+  - first:
+      213: 8288312480079568585
+    second: Pixel King Royal Animation Sheet_56
+  - first:
+      213: -1926417772268862380
+    second: Pixel King Royal Animation Sheet_57
+  - first:
+      213: 7884002155275934856
+    second: Pixel King Royal Animation Sheet_58
+  - first:
+      213: 3777417965203877395
+    second: Pixel King Royal Animation Sheet_59
+  - first:
+      213: -6050167000149993323
+    second: Pixel King Royal Animation Sheet_60
+  - first:
+      213: -4671993338776855365
+    second: Pixel King Royal Animation Sheet_61
+  - first:
+      213: -1000687375361161244
+    second: Pixel King Royal Animation Sheet_62
+  - first:
+      213: 5250089506123720943
+    second: Pixel King Royal Animation Sheet_63
+  - first:
+      213: -318389753672846501
+    second: Pixel King Royal Animation Sheet_64
+  - first:
+      213: -7206763769710027140
+    second: Pixel King Royal Animation Sheet_65
+  - first:
+      213: -7749100399696443595
+    second: Pixel King Royal Animation Sheet_66
+  - first:
+      213: -5426378507377896929
+    second: Pixel King Royal Animation Sheet_67
+  - first:
+      213: 3458112100485115639
+    second: Pixel King Royal Animation Sheet_68
+  - first:
+      213: 6999817568442986369
+    second: Pixel King Royal Animation Sheet_69
+  - first:
+      213: 8176366443436800049
+    second: Pixel King Royal Animation Sheet_70
+  - first:
+      213: 8983914392304909733
+    second: Pixel King Royal Animation Sheet_71
+  - first:
+      213: 7241850417605766797
+    second: Pixel King Royal Animation Sheet_72
+  - first:
+      213: 1025172897376704704
+    second: Pixel King Royal Animation Sheet_73
+  - first:
+      213: 4633303016662939379
+    second: Pixel King Royal Animation Sheet_74
+  - first:
+      213: 9158108873244941476
+    second: Pixel King Royal Animation Sheet_75
+  - first:
+      213: -1016543365053328448
+    second: Pixel King Royal Animation Sheet_76
+  - first:
+      213: 131209572782773533
+    second: Pixel King Royal Animation Sheet_77
+  - first:
+      213: -986826781207434764
+    second: Pixel King Royal Animation Sheet_78
+  - first:
+      213: -5623363572959621549
+    second: Pixel King Royal Animation Sheet_79
+  - first:
+      213: 5124527604615188945
+    second: Pixel King Royal Animation Sheet_80
+  - first:
+      213: -8042467469614120553
+    second: Pixel King Royal Animation Sheet_81
+  - first:
+      213: -7021541659359399584
+    second: Pixel King Royal Animation Sheet_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 610
+        width: 274
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f727869ee0704b0800000000000000
+      internalID: -5474390426403045530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 612
+        width: 277
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f3aa5dbc8fa52d0800000000000000
+      internalID: -3289043023493972098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 774
+        width: 1
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd36a4b260c6ad460800000000000000
+      internalID: 7267239722467615707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e6c217b99054f80800000000000000
+      internalID: -8123075789669503470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 613
+        width: 1
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b926c2bd3ab4c200800000000000000
+      internalID: 199489057666247095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 904
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38de575b87f5dbac0800000000000000
+      internalID: -3837806335404675709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 940
+        width: 36
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d5f7674dff89e80800000000000000
+      internalID: -8171500235877556968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 858
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c04c86774c34cb30800000000000000
+      internalID: 4306633421302284482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546b7168ed4d90f60800000000000000
+      internalID: 8001160265197925957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c230f33ce89bf8a50800000000000000
+      internalID: 6525638407895319340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 940
+        width: 22
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac07ca174a5467f0800000000000000
+      internalID: -620271587231855446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 614
+        width: 255
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188dfb17bb85399f0800000000000000
+      internalID: -462928774598502271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 906
+        width: 2
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9ecb18918ac4430800000000000000
+      internalID: 3768571815706552802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 890
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf860f92eab6ff70800000000000000
+      internalID: 9220762769581051836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 837
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5ec0f3d7212b2f0800000000000000
+      internalID: -958683441538472473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 843
+        width: 1
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fb0786fde67a1e0800000000000000
+      internalID: -2186657188256104594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 858
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9505868f7d7448680800000000000000
+      internalID: -8753792782790274983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 845
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79031037b240de6e0800000000000000
+      internalID: -1806783290846138217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 841
+        width: 1
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e239ce1b3cb3260800000000000000
+      internalID: 7078466408288562730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 843
+        width: 1
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade454ef68bf33c20800000000000000
+      internalID: 3185165918691217114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd90d486bf991d9f0800000000000000
+      internalID: -445405583067248164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3dae3c7e6b130a0800000000000000
+      internalID: -6903535647241612302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 830
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee68ed50091363220800000000000000
+      internalID: 2465212340675446510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 718
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd270fe75534394b0800000000000000
+      internalID: -5434926290825088293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 608
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fea800e76ce8a50800000000000000
+      internalID: 6525371154583711600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 604
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0f19d73f6894a00800000000000000
+      internalID: 741271994021048486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 595
+        width: 18
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07564ed7fa2ec6a30800000000000000
+      internalID: 4209988995043845488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 616
+        width: 238
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0628a1cd4db851800800000000000000
+      internalID: 582525473156399712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 635
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3876e3517e6a7a0800000000000000
+      internalID: -6366146944814316607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 555
+        width: 29
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e26f018bfe4ccc0800000000000000
+      internalID: -3691562220699374024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 555
+        width: 44
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d4446c8e62f8260800000000000000
+      internalID: 7101937918587194646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 658
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8af1137511a84f0800000000000000
+      internalID: -825828515485079335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 343
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce61fac3994ac5970800000000000000
+      internalID: 8745045554501719788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 323
+        width: 222
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff49e58dac338b70800000000000000
+      internalID: 8900024004587900915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a63b9d7d7549d2c0800000000000000
+      internalID: -4406414355124767063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87114899604a0ba00800000000000000
+      internalID: 770295884532683128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99139eb42f049f850800000000000000
+      internalID: 6411226953938448793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 345
+        width: 220
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79032b1d4ff64fe0800000000000000
+      internalID: -1204995143642183300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdac9a3e7e2b77a0800000000000000
+      internalID: -6378453327556071948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 313
+        width: 268
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af777f098dc17bb0800000000000000
+      internalID: -4939941327695020123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc56dd492a2a6fb0800000000000000
+      internalID: -4653860908046066479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 305
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c292f23b197a89540800000000000000
+      internalID: 5014942429295356204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 315
+        width: 168
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5146c536fc079f10800000000000000
+      internalID: 2276302388262748506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d217ca6704c64d0800000000000000
+      internalID: -3140063961740661468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: -10.422324, y: -0.5970021}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bde60fbe8d8eb60800000000000000
+      internalID: 7775703264517872470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 420
+        width: 1
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b7b133f81651600800000000000000
+      internalID: 438363806404148071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcc5de744153a4e0800000000000000
+      internalID: -1971642857230578465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b102779c3a2d8e6e0800000000000000
+      internalID: -1807963649487724517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 620
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfef3ef368b7c5c0800000000000000
+      internalID: -4195181788265451586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 887
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13769b8485f9cfcd0800000000000000
+      internalID: -2522966489708271823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec87d7c8268fec7e0800000000000000
+      internalID: -1743182903598286642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 720
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ee19ef7ed5de960800000000000000
+      internalID: 7632860194452663883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc148eb8a1816d050800000000000000
+      internalID: 5824869670345785803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 325
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37d3b807f3de94f0800000000000000
+      internalID: -819985024178464963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 327
+        width: 1
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132cdefd8c3b84bd0800000000000000
+      internalID: -2645667105748434383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 940
+        width: 7
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7893bf05c8d5c7aa0800000000000000
+      internalID: -6161947332914235001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce549a8940060370800000000000000
+      internalID: 8288312480079568585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4544ae22e3df345e0800000000000000
+      internalID: -1926417772268862380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 307
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cd2a1603a996d60800000000000000
+      internalID: 7884002155275934856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 354
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ee72030a51c6430800000000000000
+      internalID: 3777417965203877395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598d4442b2d790ca0800000000000000
+      internalID: -6050167000149993323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcd639cfceb92fb0800000000000000
+      internalID: -4671993338776855365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 284
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7416c4228dc12f0800000000000000
+      internalID: -1000687375361161244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 307
+        width: 1
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8a283f6901cd840800000000000000
+      internalID: 5250089506123720943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 304
+        width: 1
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53b438b43ad49bf0800000000000000
+      internalID: -318389753672846501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e5746d88e6cfb90800000000000000
+      internalID: -7206763769710027140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 1
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53781433e3aa57490800000000000000
+      internalID: -7749100399696443595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 221
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f121dea6f71a1b4b0800000000000000
+      internalID: -5426378507377896929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 397
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe25ee22aeadff20800000000000000
+      internalID: 3458112100485115639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 47
+        width: 269
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f259bedf8542160800000000000000
+      internalID: 6999817568442986369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 209
+        width: 1
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1387976c5f9487170800000000000000
+      internalID: 8176366443436800049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 285
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad7add7a864dac70800000000000000
+      internalID: 8983914392304909733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 1
+        height: 5
+      alignment: 9
+      pivot: {x: 0.28822708, y: -0.28192374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ee7e9f598308460800000000000000
+      internalID: 7241850417605766797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 1
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c81f7d81552a3e00800000000000000
+      internalID: 1025172897376704704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 356
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6b0fc9b8ccc4040800000000000000
+      internalID: 4633303016662939379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 216
+        width: 1
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac1e1c9f73281f70800000000000000
+      internalID: 9158108873244941476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 224
+        width: 1
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c35733023384e1f0800000000000000
+      internalID: -1016543365053328448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1519d8496622d100800000000000000
+      internalID: 131209572782773533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 454
+        width: 1
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9e94b55461e42f0800000000000000
+      internalID: -986826781207434764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 310
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ecedecf9cc5f1b0800000000000000
+      internalID: -5623363572959621549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 190
+        width: 1
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d195ca94bafd1740800000000000000
+      internalID: 5124527604615188945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 43
+        width: 281
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791040c727a636090800000000000000
+      internalID: -8042467469614120553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 117
+        width: 1
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061b64200197e8e90800000000000000
+      internalID: -7021541659359399584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel King Royal Animation Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 341
+        width: 4
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6282d79e2b886244b01cde1d22ec49f
+      internalID: 212267051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 98a64c1709a31204fbbc10fd2f0c12b0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixel King Royal Animation Sheet_0: -5474390426403045530
+      Pixel King Royal Animation Sheet_1: -3289043023493972098
+      Pixel King Royal Animation Sheet_10: -620271587231855446
+      Pixel King Royal Animation Sheet_11: -462928774598502271
+      Pixel King Royal Animation Sheet_12: 3768571815706552802
+      Pixel King Royal Animation Sheet_13: 9220762769581051836
+      Pixel King Royal Animation Sheet_14: -958683441538472473
+      Pixel King Royal Animation Sheet_15: -2186657188256104594
+      Pixel King Royal Animation Sheet_16: -8753792782790274983
+      Pixel King Royal Animation Sheet_17: -1806783290846138217
+      Pixel King Royal Animation Sheet_18: 7078466408288562730
+      Pixel King Royal Animation Sheet_19: 3185165918691217114
+      Pixel King Royal Animation Sheet_2: 7267239722467615707
+      Pixel King Royal Animation Sheet_20: -445405583067248164
+      Pixel King Royal Animation Sheet_21: -6903535647241612302
+      Pixel King Royal Animation Sheet_22: 2465212340675446510
+      Pixel King Royal Animation Sheet_23: -5434926290825088293
+      Pixel King Royal Animation Sheet_24: 6525371154583711600
+      Pixel King Royal Animation Sheet_25: 741271994021048486
+      Pixel King Royal Animation Sheet_26: 4209988995043845488
+      Pixel King Royal Animation Sheet_27: 582525473156399712
+      Pixel King Royal Animation Sheet_28: -6366146944814316607
+      Pixel King Royal Animation Sheet_29: -3691562220699374024
+      Pixel King Royal Animation Sheet_3: -8123075789669503470
+      Pixel King Royal Animation Sheet_30: 7101937918587194646
+      Pixel King Royal Animation Sheet_31: -825828515485079335
+      Pixel King Royal Animation Sheet_32: 8745045554501719788
+      Pixel King Royal Animation Sheet_33: 8900024004587900915
+      Pixel King Royal Animation Sheet_34: -4406414355124767063
+      Pixel King Royal Animation Sheet_35: 770295884532683128
+      Pixel King Royal Animation Sheet_36: 6411226953938448793
+      Pixel King Royal Animation Sheet_37: -1204995143642183300
+      Pixel King Royal Animation Sheet_38: -6378453327556071948
+      Pixel King Royal Animation Sheet_39: -4939941327695020123
+      Pixel King Royal Animation Sheet_4: 199489057666247095
+      Pixel King Royal Animation Sheet_40: -4653860908046066479
+      Pixel King Royal Animation Sheet_41: 5014942429295356204
+      Pixel King Royal Animation Sheet_42: 2276302388262748506
+      Pixel King Royal Animation Sheet_43: -3140063961740661468
+      Pixel King Royal Animation Sheet_44: 7775703264517872470
+      Pixel King Royal Animation Sheet_45: 438363806404148071
+      Pixel King Royal Animation Sheet_46: -1971642857230578465
+      Pixel King Royal Animation Sheet_47: -1807963649487724517
+      Pixel King Royal Animation Sheet_48: -4195181788265451586
+      Pixel King Royal Animation Sheet_49: -2522966489708271823
+      Pixel King Royal Animation Sheet_5: -3837806335404675709
+      Pixel King Royal Animation Sheet_50: -1743182903598286642
+      Pixel King Royal Animation Sheet_51: 7632860194452663883
+      Pixel King Royal Animation Sheet_52: 5824869670345785803
+      Pixel King Royal Animation Sheet_53: -819985024178464963
+      Pixel King Royal Animation Sheet_54: -2645667105748434383
+      Pixel King Royal Animation Sheet_55: -6161947332914235001
+      Pixel King Royal Animation Sheet_56: 8288312480079568585
+      Pixel King Royal Animation Sheet_57: -1926417772268862380
+      Pixel King Royal Animation Sheet_58: 7884002155275934856
+      Pixel King Royal Animation Sheet_59: 3777417965203877395
+      Pixel King Royal Animation Sheet_6: -8171500235877556968
+      Pixel King Royal Animation Sheet_60: -6050167000149993323
+      Pixel King Royal Animation Sheet_61: -4671993338776855365
+      Pixel King Royal Animation Sheet_62: -1000687375361161244
+      Pixel King Royal Animation Sheet_63: 5250089506123720943
+      Pixel King Royal Animation Sheet_64: -318389753672846501
+      Pixel King Royal Animation Sheet_65: -7206763769710027140
+      Pixel King Royal Animation Sheet_66: -7749100399696443595
+      Pixel King Royal Animation Sheet_67: -5426378507377896929
+      Pixel King Royal Animation Sheet_68: 3458112100485115639
+      Pixel King Royal Animation Sheet_69: 6999817568442986369
+      Pixel King Royal Animation Sheet_7: 4306633421302284482
+      Pixel King Royal Animation Sheet_70: 8176366443436800049
+      Pixel King Royal Animation Sheet_71: 8983914392304909733
+      Pixel King Royal Animation Sheet_72: 7241850417605766797
+      Pixel King Royal Animation Sheet_73: 1025172897376704704
+      Pixel King Royal Animation Sheet_74: 4633303016662939379
+      Pixel King Royal Animation Sheet_75: 9158108873244941476
+      Pixel King Royal Animation Sheet_76: -1016543365053328448
+      Pixel King Royal Animation Sheet_77: 131209572782773533
+      Pixel King Royal Animation Sheet_78: -986826781207434764
+      Pixel King Royal Animation Sheet_79: -5623363572959621549
+      Pixel King Royal Animation Sheet_8: 8001160265197925957
+      Pixel King Royal Animation Sheet_80: 5124527604615188945
+      Pixel King Royal Animation Sheet_81: -8042467469614120553
+      Pixel King Royal Animation Sheet_82: -7021541659359399584
+      Pixel King Royal Animation Sheet_83: 212267051
+      Pixel King Royal Animation Sheet_9: 6525638407895319340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

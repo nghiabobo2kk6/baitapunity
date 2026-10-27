@@ -1,0 +1,1601 @@
+fileFormatVersion: 2
+guid: bd31c270b982cba4e82d80b6270322db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4396993697193576244
+    second: bangten_0
+  - first:
+      213: 4419061942315129994
+    second: bangten_1
+  - first:
+      213: -8087865147010717910
+    second: bangten_2
+  - first:
+      213: -5692767604400702378
+    second: bangten_3
+  - first:
+      213: -7288093743596871389
+    second: bangten_4
+  - first:
+      213: 3704709192704553083
+    second: bangten_5
+  - first:
+      213: -2872327487425600616
+    second: bangten_6
+  - first:
+      213: -7876535140031094451
+    second: bangten_7
+  - first:
+      213: 1354353213315772961
+    second: bangten_8
+  - first:
+      213: -3652258303189349946
+    second: bangten_9
+  - first:
+      213: 7516574770182194073
+    second: bangten_10
+  - first:
+      213: -4276783852287095490
+    second: bangten_11
+  - first:
+      213: 390617271921448263
+    second: bangten_12
+  - first:
+      213: 8438314547504901525
+    second: bangten_13
+  - first:
+      213: -8854414644930216156
+    second: bangten_14
+  - first:
+      213: -2722349404200412462
+    second: bangten_15
+  - first:
+      213: -3078154336869284923
+    second: bangten_16
+  - first:
+      213: 6620638842516147257
+    second: bangten_17
+  - first:
+      213: 3207660788929724930
+    second: bangten_18
+  - first:
+      213: -8541733096463590109
+    second: bangten_19
+  - first:
+      213: 4909725212545548244
+    second: bangten_20
+  - first:
+      213: 558347238526447321
+    second: bangten_21
+  - first:
+      213: -4521477652592682328
+    second: bangten_22
+  - first:
+      213: 2542965821966706282
+    second: bangten_23
+  - first:
+      213: -5294453889480226848
+    second: bangten_24
+  - first:
+      213: 351214705223756059
+    second: bangten_25
+  - first:
+      213: 2357482441190926181
+    second: bangten_26
+  - first:
+      213: 2661310597528929278
+    second: bangten_27
+  - first:
+      213: 3541052975175287686
+    second: bangten_28
+  - first:
+      213: 2019802576679222775
+    second: bangten_29
+  - first:
+      213: 6217079955440201595
+    second: bangten_30
+  - first:
+      213: -4125116487466338126
+    second: bangten_31
+  - first:
+      213: 4033899837366226125
+    second: bangten_32
+  - first:
+      213: -6670564709489434228
+    second: bangten_33
+  - first:
+      213: -6510299079910892438
+    second: bangten_34
+  - first:
+      213: 3196843840412959854
+    second: bangten_35
+  - first:
+      213: -2012890759042913588
+    second: bangten_36
+  - first:
+      213: -1249447938552930441
+    second: bangten_37
+  - first:
+      213: -331872939719871273
+    second: bangten_38
+  - first:
+      213: 3460131045425524866
+    second: bangten_39
+  - first:
+      213: 8706211633597794717
+    second: bangten_40
+  - first:
+      213: 9057408318317425510
+    second: bangten_41
+  - first:
+      213: -274200879021655479
+    second: bangten_42
+  - first:
+      213: -2991293907498404374
+    second: bangten_43
+  - first:
+      213: -7583517798251896896
+    second: bangten_44
+  - first:
+      213: -3984684166260701147
+    second: bangten_45
+  - first:
+      213: -3429341355321210833
+    second: bangten_46
+  - first:
+      213: 7967229193063471498
+    second: bangten_47
+  - first:
+      213: -4289873886651656128
+    second: bangten_48
+  - first:
+      213: -4024581018623911796
+    second: bangten_49
+  - first:
+      213: 877857743676319470
+    second: bangten_50
+  - first:
+      213: -3596588619489603043
+    second: bangten_51
+  - first:
+      213: 8722972346707064873
+    second: bangten_52
+  - first:
+      213: 3184395853717514751
+    second: bangten_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bangten_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 435
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc83527578dbaf2c0800000000000000
+      internalID: -4396993697193576244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 797
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c14206c69a35d30800000000000000
+      internalID: 4419061942315129994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 512
+        width: 431
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27e929008122cf80800000000000000
+      internalID: -8087865147010717910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 797
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c38de760a3ff0b0800000000000000
+      internalID: -5692767604400702378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 791
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321692baa5d7bda90800000000000000
+      internalID: -7288093743596871389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 765
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b707743e165c96330800000000000000
+      internalID: 3704709192704553083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_6
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 767
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89328615e517328d0800000000000000
+      internalID: -2872327487425600616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_7
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 795
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41a095950de0b290800000000000000
+      internalID: -7876535140031094451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 781
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12278146211abc210800000000000000
+      internalID: 1354353213315772961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_9
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 772
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c98d6a7c62905dc0800000000000000
+      internalID: -3652258303189349946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_10
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 507
+        width: 433
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9938f50ddec305860800000000000000
+      internalID: 7516574770182194073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_11
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 811
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d0d47eebfc5a4c0800000000000000
+      internalID: -4276783852287095490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_12
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 511
+        width: 433
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7459208d650cb6500800000000000000
+      internalID: 390617271921448263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_13
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 795
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d6a037f5aea1570800000000000000
+      internalID: 8438314547504901525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_14
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 789
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ffaea0bccce1580800000000000000
+      internalID: -8854414644930216156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_15
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 805
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da5328f3a5483ad0800000000000000
+      internalID: -2722349404200412462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_16
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 795
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3041b70f23845d0800000000000000
+      internalID: -3078154336869284923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_17
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 805
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c045a13fb31eb50800000000000000
+      internalID: 6620638842516147257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_18
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 765
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2020b1c1e76e38c20800000000000000
+      internalID: 3207660788929724930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_19
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 801
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d171b310ba57980800000000000000
+      internalID: -8541733096463590109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_20
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 772
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df7e866119d22440800000000000000
+      internalID: 4909725212545548244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 761
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de60bdead5afb700800000000000000
+      internalID: 558347238526447321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_22
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 759
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa9851e70c7041c0800000000000000
+      internalID: -4521477652592682328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_23
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 741
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66e84e11fd6a4320800000000000000
+      internalID: 2542965821966706282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_24
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 759
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e788dd1d325686b0800000000000000
+      internalID: -5294453889480226848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 751
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1961c0e9e3cfd400800000000000000
+      internalID: 351214705223756059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_26
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 743
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567e76f2ac577b020800000000000000
+      internalID: 2357482441190926181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_27
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 735
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3c1b263efdee420800000000000000
+      internalID: 2661310597528929278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_28
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 489
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683c92c6be8542130800000000000000
+      internalID: 3541052975175287686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_29
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 491
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd326bfdb7c70c10800000000000000
+      internalID: 2019802576679222775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_30
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 483
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fe63ca741874650800000000000000
+      internalID: 6217079955440201595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_31
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 487
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b836731964a0c6c0800000000000000
+      internalID: -4125116487466338126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 177
+        width: 429
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc48b1978a4bf730800000000000000
+      internalID: 4033899837366226125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_33
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 417
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8120a72db46d63a0800000000000000
+      internalID: -6670564709489434228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 175
+        width: 433
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cdb58da75c6a5a0800000000000000
+      internalID: -6510299079910892438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_35
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 417
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64c53609887d5c20800000000000000
+      internalID: 3196843840412959854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_36
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 177
+        width: 435
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaa497f486c014e0800000000000000
+      internalID: -2012890759042913588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_37
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 390
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f553148b119aee0800000000000000
+      internalID: -1249447938552930441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_38
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 328
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4be65d153f46bf0800000000000000
+      internalID: -331872939719871273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_39
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 195
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280b3ee6adad40030800000000000000
+      internalID: 3460131045425524866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_40
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 160
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9948ff6a5da2d870800000000000000
+      internalID: 8706211633597794717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_41
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 148
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6637af690e062bd70800000000000000
+      internalID: 9057408318317425510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_42
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 144
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a70d8d0c7d13cf0800000000000000
+      internalID: -274200879021655479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_43
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 128
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae574c82a0acc76d0800000000000000
+      internalID: -2991293907498404374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_44
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 96
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfd75fddbee1c690800000000000000
+      internalID: -7583517798251896896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_45
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 175
+        width: 425
+        height: 240
+      alignment: 9
+      pivot: {x: 0.19648573, y: 1.0959896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52848efccde83b8c0800000000000000
+      internalID: -3984684166260701147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_46
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 90
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28c58ee4388860d0800000000000000
+      internalID: -3429341355321210833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_47
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a899ba82db8419e60800000000000000
+      internalID: 7967229193063471498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_48
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04857e6cd6e4774c0800000000000000
+      internalID: -4289873886651656128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_49
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 71
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88542ff2e0d528c0800000000000000
+      internalID: -4024581018623911796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_50
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 67
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6272f77f6ce2c00800000000000000
+      internalID: 877857743676319470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_51
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d121c14c4b9561ec0800000000000000
+      internalID: -3596588619489603043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_52
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 47
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928b70f02293e0970800000000000000
+      internalID: 8722972346707064873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangten_53
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 49
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff92f05482f313c20800000000000000
+      internalID: 3184395853717514751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0dbdba4d47d30ff4fa6bd0dca49ba58d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bangten_0: -4396993697193576244
+      bangten_1: 4419061942315129994
+      bangten_10: 7516574770182194073
+      bangten_11: -4276783852287095490
+      bangten_12: 390617271921448263
+      bangten_13: 8438314547504901525
+      bangten_14: -8854414644930216156
+      bangten_15: -2722349404200412462
+      bangten_16: -3078154336869284923
+      bangten_17: 6620638842516147257
+      bangten_18: 3207660788929724930
+      bangten_19: -8541733096463590109
+      bangten_2: -8087865147010717910
+      bangten_20: 4909725212545548244
+      bangten_21: 558347238526447321
+      bangten_22: -4521477652592682328
+      bangten_23: 2542965821966706282
+      bangten_24: -5294453889480226848
+      bangten_25: 351214705223756059
+      bangten_26: 2357482441190926181
+      bangten_27: 2661310597528929278
+      bangten_28: 3541052975175287686
+      bangten_29: 2019802576679222775
+      bangten_3: -5692767604400702378
+      bangten_30: 6217079955440201595
+      bangten_31: -4125116487466338126
+      bangten_32: 4033899837366226125
+      bangten_33: -6670564709489434228
+      bangten_34: -6510299079910892438
+      bangten_35: 3196843840412959854
+      bangten_36: -2012890759042913588
+      bangten_37: -1249447938552930441
+      bangten_38: -331872939719871273
+      bangten_39: 3460131045425524866
+      bangten_4: -7288093743596871389
+      bangten_40: 8706211633597794717
+      bangten_41: 9057408318317425510
+      bangten_42: -274200879021655479
+      bangten_43: -2991293907498404374
+      bangten_44: -7583517798251896896
+      bangten_45: -3984684166260701147
+      bangten_46: -3429341355321210833
+      bangten_47: 7967229193063471498
+      bangten_48: -4289873886651656128
+      bangten_49: -4024581018623911796
+      bangten_5: 3704709192704553083
+      bangten_50: 877857743676319470
+      bangten_51: -3596588619489603043
+      bangten_52: 8722972346707064873
+      bangten_53: 3184395853717514751
+      bangten_6: -2872327487425600616
+      bangten_7: -7876535140031094451
+      bangten_8: 1354353213315772961
+      bangten_9: -3652258303189349946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
